@@ -1,4 +1,5 @@
-# checkout
+## 麦诗生活收银系统
+
 # Electron + Vue3 + TypeScript + Vite + Element plus + serialport + MQTT
 
 This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
@@ -16,6 +17,5 @@ Since TypeScript cannot handle type information for `.vue` imports, they are shi
 
 注 electron 只能使用22.3.27, 23+更高版本不支持WIN7
 
-## 麦诗生活收银系统
 ## 运营支撑： 四川麦诗驿站科技有限公司
 ## 技术支持： 成都为正信息技术有限公司
